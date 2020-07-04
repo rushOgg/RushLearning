@@ -1,0 +1,2 @@
+# RushLearning
+beginner of rus
