@@ -1,2 +1,2 @@
 # RushLearning
-beginner of rus
+Learn Rust
